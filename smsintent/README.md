@@ -26,7 +26,7 @@ Step 7: Save and run the application.
 Program to create and design an android application Send SMS using Intent.
 
 ## Activity_main.xml:
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -101,9 +101,9 @@ Program to create and design an android application Send SMS using Intent.
         app:layout_constraintVertical_bias="0.373" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
+```
 ## MainActivity.java:
-
+```
 package com.example.sms;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -222,12 +222,12 @@ public class MainActivity extends AppCompatActivity {
     </application>
 
 </manifest>
+```
+```
+Developed by:Vijay Ganesh N
 
-
-Developed by:P.KARTHICK
-
-Registeration Number : 212221040072
-
+Registeration Number : 212221040177
+```
 ## OUTPUT
 ![Screenshot (218)](https://github.com/Aishwarya-TM/Mobile-Application-Development/assets/127846109/76df3dce-acf4-4517-b419-5645403729b0)
 
