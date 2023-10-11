@@ -90,7 +90,7 @@ protected void onCreate(Bundle savedInstanceState) {
 }
 }
 ```
-## Anbdroid_Manifest.xml:
+## Android_Manifest.java:
 ```
 package com.example.placename;
 
