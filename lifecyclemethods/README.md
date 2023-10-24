@@ -26,13 +26,7 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-```
-/*
-Program to print the text “Hello World”.
-Developed by:Vijay Ganesh N
-Registeration Number :212221040177
-*/
-```
+
 ## MainActivity.java:
 ```
 package com.example.helloworld;
@@ -120,6 +114,13 @@ public class MainActivity extends AppCompatActivity {
         app:layout_constraintVertical_bias="0.499" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+```
+```
+/*
+Program to print the text “Hello World”.
+Developed by:Vijay Ganesh N
+Registeration Number :212221040177
+*/
 ```
 ## OUTPUT
 ## onStart()
